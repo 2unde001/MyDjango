@@ -1,8 +1,6 @@
 # MyDjango
 Django Basics
-Practised Django project creation
-Practised Django Application creation
-Map url with regex
+Practised how to create Django project and Django Application and map application url with regex.
 And Inject templates tags:text and logic
 
 
